@@ -1,0 +1,17 @@
+C:\Users\user\Music\HavlinTasks\HavlinTasks\obj\Debug\net6.0-windows\HavlinTasks.csproj.AssemblyReference.cache
+C:\Users\user\Music\HavlinTasks\HavlinTasks\obj\Debug\net6.0-windows\HavlinTasks.Form1.resources
+C:\Users\user\Music\HavlinTasks\HavlinTasks\obj\Debug\net6.0-windows\HavlinTasks.csproj.GenerateResource.cache
+C:\Users\user\Music\HavlinTasks\HavlinTasks\obj\Debug\net6.0-windows\HavlinTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Music\HavlinTasks\HavlinTasks\obj\Debug\net6.0-windows\HavlinTasks.AssemblyInfoInputs.cache
+C:\Users\user\Music\HavlinTasks\HavlinTasks\obj\Debug\net6.0-windows\HavlinTasks.AssemblyInfo.cs
+C:\Users\user\Music\HavlinTasks\HavlinTasks\obj\Debug\net6.0-windows\HavlinTasks.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\HavlinTasks\HavlinTasks\bin\Debug\net6.0-windows\HavlinTasks.exe
+C:\Users\user\Music\HavlinTasks\HavlinTasks\bin\Debug\net6.0-windows\HavlinTasks.deps.json
+C:\Users\user\Music\HavlinTasks\HavlinTasks\bin\Debug\net6.0-windows\HavlinTasks.runtimeconfig.json
+C:\Users\user\Music\HavlinTasks\HavlinTasks\bin\Debug\net6.0-windows\HavlinTasks.dll
+C:\Users\user\Music\HavlinTasks\HavlinTasks\bin\Debug\net6.0-windows\HavlinTasks.pdb
+C:\Users\user\Music\HavlinTasks\HavlinTasks\obj\Debug\net6.0-windows\HavlinTasks.dll
+C:\Users\user\Music\HavlinTasks\HavlinTasks\obj\Debug\net6.0-windows\refint\HavlinTasks.dll
+C:\Users\user\Music\HavlinTasks\HavlinTasks\obj\Debug\net6.0-windows\HavlinTasks.pdb
+C:\Users\user\Music\HavlinTasks\HavlinTasks\obj\Debug\net6.0-windows\HavlinTasks.genruntimeconfig.cache
+C:\Users\user\Music\HavlinTasks\HavlinTasks\obj\Debug\net6.0-windows\ref\HavlinTasks.dll
